@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  position: relative;
+
+}
+
+
+
+p {
+  color: black;
+}
+
+input {
+  margin-right: 10px;
+ width: 40%;
+ padding: 5px;
+	text-align: center;
+	background-color: white;
+  margin-bottom: 10px;
+  border: none;
+  background-color: rgba(170, 170, 190, 0.699);
+  color: white;
+}
+
+body{
+  margin : 0 auto;
+  width: 100%;
+  height: 100%;
+ 
+  
+}
+
+button{
+  
+  color: white;
+  background-color: orange;
+  border : none;
+  width: 40%;
+  padding: 5px;
+
+}
+
+
+p{
+  color:white;
+}
+
+.App > div{
+
+margin-bottom: -45%;
+}
